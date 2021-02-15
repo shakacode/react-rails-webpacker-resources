@@ -1,0 +1,1 @@
+# react-rails-webpacker-resources
